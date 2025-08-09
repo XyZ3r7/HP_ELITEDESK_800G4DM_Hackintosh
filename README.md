@@ -1,6 +1,7 @@
 # HP_ELITEDESK_800G4DM_Hackintosh
 hackintosh efi files for 800g4dm
-
+iGPU and ethernet are working.
+There might have some other issues that I haven't discover.
 ## 开源声明
 
 本 EFI 使用了以下仓库的SSDT文件：
